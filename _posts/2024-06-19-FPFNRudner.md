@@ -4,6 +4,18 @@ title: "Classification Error of Rudner Mathod"
 ---
 # False Positive and False Negative.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
