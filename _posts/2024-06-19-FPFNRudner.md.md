@@ -1,3 +1,7 @@
+---
+layout: single
+title: "False Positive and False Negative of Rudner Classication Accuracy"
+---
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
