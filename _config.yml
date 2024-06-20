@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Psychometrics with Data Science"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Jake Cho
+name                     : "Jake Cho"
 description              : "Thoughts and Ideas for Practical Applications of Data Science to Psychometrics."
 url                      : "https://jakecho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,16 +114,16 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a resaerch psychometrician and data scientist."
+  location         : "NC, US"
+  email            : Jake.cho.ukhyun@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:Jake.cho.ukhyun@gmail.com"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/jakecho-psychometrician/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
