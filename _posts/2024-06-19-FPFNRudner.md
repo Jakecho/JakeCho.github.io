@@ -2,20 +2,12 @@
 layout: single
 title: "Classification Error of Rudner Mathod"
 ---
-# False Positive and False Negative.
-
-
-
-
-
-
-
-
-
-
-
-
-
+# False Positive and False Negative of Classification.
+# 
+# 
+# 
+# 
+# 
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
