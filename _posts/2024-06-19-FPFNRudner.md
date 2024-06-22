@@ -8,14 +8,6 @@ title: "Classification Error of Rudner Mathod"
 
 
 
-
-
-
-
-
-
-
-
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -105,13 +97,6 @@ plt.show()
 ```
 
 
-    
-![png](theta_dist_files/theta_dist_0_0.png)
-    
+![image-20240622124653690](../images/2024-06-19-FPFNRudner/image-20240622124653690.png)
 
-
-
-    
-![png](theta_dist_files/theta_dist_0_1.png)
-    
-
+![image-20240622124704967](../images/2024-06-19-FPFNRudner/image-20240622124704967.png)
